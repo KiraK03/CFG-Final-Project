@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Climate+Crisis&family=Dancing+Script&display=swap');
+p {
+    color: blueviolet;
+    font-weight: bold;
+    font-family: 'Golos Text', sans-serif;
+}
+
+h1{
+    font-size: 150px;
+    text-decoration: underline green;
+}
+
+.box-1 {
+    width: 300px;
+    border: 25px dashed green;
+    padding: 10px;
+    margin: 100px;
+    
+    background-color: blueviolet;
+    font-size: 50px;
+  }
+  
+.box-2 {
+    width: 300px;
+    border: 25px solid blue;
+
+    background-color: yellow;
+    font-size: 50px;
+  }

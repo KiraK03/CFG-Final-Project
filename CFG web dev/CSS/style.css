@@ -1,0 +1,9 @@
+h1 {
+    color:blue;
+}
+
+h2{
+    font-size: 100px;
+    font-weight: 100;
+    text-decoration: underline blue;
+}
